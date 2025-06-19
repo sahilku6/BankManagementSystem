@@ -23,4 +23,5 @@ class Transaction extends Bank {
             System.out.println("Invalid transaction type.");
         }
     }
+    
 }

@@ -4,4 +4,5 @@ public class Bank {
     public String bankAccount;
     public String IFSCCode;
     public int BankBalance;
+    
 }
